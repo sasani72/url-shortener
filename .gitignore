@@ -1,0 +1,11 @@
+/vendor/
+/composer.json
+/composer.lock
+/composer.phar
+/composer-installer
+/composer-setup.php
+.env
+.idea/
+/.idea/
+/node_modules/
+/yarn.lock
